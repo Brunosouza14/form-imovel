@@ -1,0 +1,26 @@
+.label{
+    display: block;
+}
+    
+#btn-submit {
+    margin-top: 5px;
+    color: white;
+    background-color: #2196f3;
+    border-color: #03a9f4;
+}
+
+#form {
+    border: 1px solid rgb(68, 0, 255);
+    border-radius: 5px;
+    padding: 20px;
+
+  }
+  
+
+.btn-reset{
+    margin-top: 5px;
+    color: black;
+    background-color: yellow;
+    border-color: yellow;
+
+}
